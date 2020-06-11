@@ -1,24 +1,18 @@
 # real-world-vue
 
-## Project setup
-```
-npm install
-```
+> My training Vue CLI project by Vue Mastery
+> course https://www.vuemastery.com/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<img src="readmeImg.JPG">
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Project features
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Navigation menu
+- Fetching events from json-server
+- Creating events
+- Event reading
+- Pagination
+- Vue Router was applied
+- Application built with Vue Components
+- API calls with Axios
+- Vuex for State Management
